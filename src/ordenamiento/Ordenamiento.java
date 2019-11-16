@@ -7,6 +7,8 @@ public class Ordenamiento
     //devuelve vacio
     // comentario de prueba git hub
     //metodo para ordenar
+    
+    // cambio  de pruba para subir
 void sort (int arr[])
     {
     //tamaño de arreglo
